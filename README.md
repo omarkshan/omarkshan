@@ -1,6 +1,9 @@
 ### Hi, I'm Omar 👋
 
-##A Skilled Software Engineer specialized in frontend development, combined with the ability to design web apps based on UX standards. As well as improving apps quality by identifying issues and common patterns, and developing standard operating procedures. Enhancing applications by identifying opportunities for improvement, making recommendations, and designing and implementing systems. 
+<dl>
+  <dt>Summary</dt>
+  <dd>A Skilled Software Engineer specialized in frontend development, combined with the ability to design web apps based on UX standards. As well as improving apps quality by identifying issues and common patterns, and developing standard operating procedures. Enhancing applications by identifying opportunities for improvement, making recommendations, and designing and implementing systems.</dd>
+</dl>
 
 <!--
 **omarkshan/omarkshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
