@@ -11,6 +11,8 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarkshan&layout=compact&theme=gotham)](https://github.com/omarkshan/github-readme-stats)
 
+[![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omarkshan)](https://github.com/omarkshan/github-readme-stats)
+
 <!--
 **omarkshan/omarkshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
