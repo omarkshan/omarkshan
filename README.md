@@ -7,11 +7,11 @@ ___
 
 ___
 
+![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omarkshan&theme=gotham)
+
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarkshan&hide=contribs,prs&count_private=true&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarkshan&layout=compact&theme=gotham)]
-
-[![Omar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=omarkshan)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarkshan&layout=compact&theme=gotham)
 
 <!--
 **omarkshan/omarkshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
