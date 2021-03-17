@@ -5,6 +5,8 @@ ___
   <dd>A Skilled Software Engineer specialized in full-stack and blockchain development, combined with the ability to improve web apps UX. As well as improving apps quality by identifying issues and common patterns, and developing standard operating procedures. Enhancing applications by identifying opportunities for improvement, making recommendations, and designing and implementing systems.</dd>
 </dl>
 
+_________________________________________________________________________________________________________________________________________
+
 [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarkshan)](https://github.com/omarkshan/github-readme-stats)
 
 <!--
