@@ -7,7 +7,7 @@ ___
 
 ___
 
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarkshan)](https://github.com/omarkshan/github-readme-stats)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarkshan&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **omarkshan/omarkshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
