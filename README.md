@@ -2,7 +2,7 @@
 ___
 <dl>
   <dt>Summary</dt>
-  <dd>A Skilled Software Engineer specialized in full-stack and blockchain development, combined with the ability to improve web apps UX. As well as improving apps quality by identifying issues and common patterns, and developing standard operating procedures. Enhancing applications by identifying opportunities for improvement, making recommendations, and designing and implementing systems.</dd>
+  <dd>A Skilled Software Engineer specialized in full-stack and blockchain development and a Data Enthusiast, combined with the ability to improve web apps UX. As well as improving apps quality by identifying issues and common patterns, and developing standard operating procedures. Enhancing applications by identifying opportunities for improvement, making recommendations, and designing and implementing systems.</dd>
 </dl>
 
 ___
